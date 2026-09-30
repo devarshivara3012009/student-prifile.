@@ -1,0 +1,9 @@
+student_profile.docx
+
+STUDENT PROFILE
+
+Name : devarshi vara
+Program : B.tech IT
+semester: 1
+about me:
+i am a first year student interested in technology
