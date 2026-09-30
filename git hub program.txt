@@ -7,3 +7,8 @@ Program : B.tech IT
 semester: 1
 about me:
 i am a first year student interested in technology
+
+my intrests:
+web devlopment
+programming
+artificial intelligence
